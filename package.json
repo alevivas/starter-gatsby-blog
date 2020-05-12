@@ -1,11 +1,13 @@
 {
   "name": "contentful-starter-gatsby-blog",
   "description": "Contentful Gatsby Starter Blog",
-  "private": true,
   "version": "0.0.1",
   "author": "Contentful <opensource@contentful.com>",
   "bugs": {
     "url": "https://github.com/contentful/starter-gatsby-blog/issues"
+  },
+  "engines": {
+    "node": "10.16.3"
   },
   "dependencies": {
     "gatsby": "^2.21.10",
