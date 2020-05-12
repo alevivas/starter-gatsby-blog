@@ -38,11 +38,11 @@
     "type": "git",
     "url": "git+https://github.com/contentful/starter-gatsby-blog.git"
   },
-  "scripts": {    
-    "build": "gatsby build",
-    "heroku-postbuild": "gatsby build",
+  "scripts": {
     "start": "gatsby serve",
     "dev": "gatsby develop",
+    "build": "gatsby build",
+    "heroku-postbuild": "gatsby build",
     "serve": "gatsby serve",
     "postinstall": "node ./bin/hello.js",
     "setup": "node ./bin/setup.js",
